@@ -1,9 +1,4 @@
----
-title: "Shengzhou Luo"
-author: "罗胜舟"
----
-
-# Shengzhou Luo
+*Shengzhou Luo*
 *罗胜舟*  
 ![Me](me_extrasmall.jpg)  
 *[My CV](pdf/luo-cv.pdf)*  
