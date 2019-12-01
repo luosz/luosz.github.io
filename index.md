@@ -1,3 +1,8 @@
+---
+title: "Shengzhou Luo"
+author: "罗胜舟"
+---
+
 # Shengzhou Luo
 *罗胜舟*  
 ![Me](me_extrasmall.jpg)  
@@ -148,4 +153,5 @@ Time-varying:
 <!---
 Last modified: `r format(Sys.Date(), format="%A, %d %B %Y")`. This page is created using [R Markdown](http://rmarkdown.rstudio.com/).
 -->
+https://luosz.github.io/  
 2019 Shengzhou Luo. All rights reserved.
