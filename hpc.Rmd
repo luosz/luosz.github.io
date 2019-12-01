@@ -1,0 +1,123 @@
+---
+title: "Open Online Courses in Maths and Computing with Emphasis on Data Science and Mathematical Finance"
+output: html_document
+---
+
+### This curriculum of massive open online courses (MOOC) covers most topics included in an [M.Sc. in High-Performance Computing](https://www.maths.tcd.ie/hpcmsc/courses/) with the addition of core modules in [data science](https://www.city.ac.uk/courses/postgraduate/data-science-msc#course-detail=1) and [mathematical finance](https://www.maths.ox.ac.uk/members/students/postgraduate-courses/msc-mcf/mscmcf-course-components).
+
+******
+
+## Compulsory Modules
+
+Introduction to C++
+[edX](https://www.edx.org/course/introduction-c-microsoft-dev210x)
+
+MIT 2.097/6.339/16.920 Numerical Methods for Partial Differentail Equations
+[YouTube](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/playlists)
+
+* Further Reading
+    + Introduction to Numerical Methods
+[Udemy](https://www.udemy.com/numericalmethodsguy/)
+    + Practical Numerical Methods with Python
+[GW Open edX](http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/)
+    + Numerical Methods in Engineering with Python, 3rd Edition
+[pdf](https://drive.google.com/folderview?id=0Byo0yQIx6HVEdGcta2tBcEZQUEE&usp=sharing)
+    + Introduction to Python for Computational Science and Engineering (A beginner's guide)
+[pdf](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+    + Introduction to Programming with MATLAB
+[Coursera](https://www.coursera.org/course/matlab)
+    + Introduction to Numerical Methods and Matlab Programming for Engineers
+[pdf](http://www.math.ohiou.edu/courses/math3600/book.pdf)
+    + Applied Numerical Methods with MATLAB for Engineers and Scientists. Third Edition
+[pdf](https://minificciones.files.wordpress.com/2012/05/appliednumericalchapra.pdf)
+
+Introduction to Computer Science and Programming Using Python
+[edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
+
+Introduction to Computational Thinking and Data Science
+[edX](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-2)
+
+* Further Reading
+    + Statistical Mechanics: Algorithms and Computations
+[Coursera](https://www.coursera.org/course/smac)
+
+******
+
+## Optional Modules -- High Performance Computing
+High Performance Computing: Offered at Georgia Tech as CS 6220
+[Udacity](https://www.udacity.com/course/high-performance-computing--ud281)
+
+* Further Reading
+    + High Performance Scientific Computing
+[Coursera](https://class.coursera.org/scicomp-003)
+
+Intro to Parallel Programming: Using CUDA to Harness the Power of GPUs
+[Udacity](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+
+* Further Reading
+    + Heterogeneous Parallel Programming
+[Coursera](https://www.coursera.org/course/hetero)
+
+High Performance Computer Architecture: Pipelines, Caches, and MultiCores
+[Udacity](https://www.udacity.com/course/high-performance-computer-architecture--ud007)
+
+Design of Computer Programs: Programming Principles
+[Udacity](https://www.udacity.com/course/design-of-computer-programs--cs212)
+
+* Further Reading
+    + Algorithms: Design and Analysis, Part 1
+[Coursera](https://www.coursera.org/course/algo)
+    + Algorithms: Design and Analysis, Part 2
+[Coursera](https://www.coursera.org/course/algo2)
+    + Computability, Complexity & Algorithms: The Power and Limitation of Algorithms
+[Udacity](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
+
+******
+
+## Optional Modules -- Data Science
+
+Intro to Data Science: Learn What It Takes to Become a Data Scientist
+[Udacity](https://www.udacity.com/course/intro-to-data-science--ud359)
+
+Machine Learning
+[Udacity](https://www.udacity.com/course/machine-learning--ud262)
+
+* Further Reading
+    + Machine Learning Engineer Nanodegree
+[Udacity](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+
+Model Building and Validation
+[Udacity](https://www.udacity.com/course/model-building-and-validation--ud919)
+
+CSE 8803 Special Topics: Big Data
+[Udacity](https://www.udacity.com/course/cse-8803-special-topics-big-data--ud758)
+
+******
+
+## Optional Modules -- Mathematical Finance
+
+Pricing Options with Mathematical Models
+[edX](https://www.edx.org/course/pricing-options-mathematical-models-caltechx-bem1105x-2)
+
+Computational Investing, Part I
+[Coursera](https://www.coursera.org/learn/computational-investing)
+
+Machine Learning for Trading: Offered at Georgia Tech as CS 7646
+[Udacity](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+
+Build Business and Financial Models: Use spreadsheet models to make data-driven financial decisions
+[Coursera](https://www.coursera.org/specializations/wharton-business-financial-modeling)
+
+* Further Reading
+    + Investment Management in an Evolving and Volatile World
+[Coursera](https://www.coursera.org/learn/investment-management)
+    + Make Smart Investment Decisions in a Global World: Learn how a wealth-generating investment portfolio functions in practice.
+[Coursera](https://www.coursera.org/specializations/investment-management)
+    + Become a Strategic Financial Manager: Develop an integrated financial management framework.
+[Coursera](https://www.coursera.org/specializations/financial-management)
+
+******
+
+Last modified: `r format(Sys.Date(), format="%A, %d %B %Y")`. This page is created using [R Markdown](http://rmarkdown.rstudio.com/).
+
+[Back to homepage](./)
