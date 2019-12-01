@@ -70,7 +70,7 @@ A novel approach that optimizes transfer functions with a heuristic search algor
 
 Turbulent vortex | Statically optmize opacity | Dynamically optimize opacity
 ------------- | ------------- | -------------
-![Image](images/~vorts.gif) | ![Image](images/~vorts_static.gif) | ![Image](images/~vorts_optimized.gif)
+![Image](images/vorts.gif) | ![Image](images/vorts_static.gif) | ![Image](images/vorts_optimized.gif)
 
 * Michael Doyle, Shengzhou Luo and Michael Manzke, "Fast Hardware-Accelerated Construction of Spatial Index Structures for Visualization of Time-Varying Medical Data", MedViz and Visual Computing for Biology and Medicine Conference 2016, Bergen, Norway, 2016, pp. 79 - 81. (Poster)
 
