@@ -1,14 +1,11 @@
-*Shengzhou Luo*
+## Shengzhou Luo  
 *罗胜舟*  
 ![Me](me_extrasmall.jpg)  
 *[My CV](pdf/luo-cv.pdf)*  
 *[PhD thesis](pdf/thesis.pdf)*  
-*Member of Staff: scss_staff*  
 *e-mail: luos at tcd dot ie*
 
 ******
-
-## Summary
 
 I am a research fellow at the [Graphics Vision Visualisation (GV2)](http://gv2.scss.tcd.ie/) lab in Trinity College Dublin, the University of Dublin.
 
